@@ -1,0 +1,6 @@
+build/bin
+build/gen
+vendor
+benchmarks/*/build
+*.prof
+

@@ -1,0 +1,12 @@
+{
+	"Contract": {
+		"ignore": ["method", "method1"],
+		"timestamps": [1503756000, 1803756000]
+	},
+	"SomeToken": {
+		"ignore": ["name", "symbol", "decimals", "pause", "unpause", "renounceOwnership", "transferOwnership"]
+	},
+	"Migrations": {
+		"ignore_all": true
+	}
+}
